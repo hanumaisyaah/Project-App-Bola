@@ -35,7 +35,7 @@ class anothernews extends StatelessWidget {
                       children: [
                         Expanded(
                           child: 
-                            Image.network('https://images.daznservices.com/di/library/GOAL/c0/68/gerard-pique-barcelona-yellow-card-2020-21_1b5pixs2oir8s1hy0nwfy1tnrz.jpg?t=1931977831&quality=100',),
+                            Image.network('https://images.daznservices.com/di/library/GOAL/c0/68/gerard-pique-barcelona-yellow-card-2020-21_1b5pixs2oir8s1hy0nwfy1tnrz.jpg?t=1931977831&quality=100'),
                         ),
                         Expanded(
                         child: TextButton(
